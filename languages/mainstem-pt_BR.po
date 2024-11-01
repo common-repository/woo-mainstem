@@ -1,0 +1,81 @@
+# Copyright (C) 2019 MainStem
+# This file is distributed under the same license as the WooCommerce - MainStem plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce - MainStem 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mainstem\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-18 12:09-0200\n"
+"PO-Revision-Date: 2019-01-18 12:11-0200\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Domain: mainstem\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce - MainStem"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://about.gomainstem.com/plugins/woocommerce/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin allows MainStem to view products, inventory, create new orders, "
+"and check order statuses."
+msgstr ""
+"Este plugin permite que o MainStem veja produtos, inventário, crie novos "
+"pedidos e verifique o status dos pedidos."
+
+#. Author of the plugin
+msgid "MainStem"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://about.gomainstem.com"
+msgstr ""
+
+#: includes/admin.php:48
+msgid "Sorry, the nonce verification failed."
+msgstr "A verificação do nonce falhou."
+
+#: includes/admin.php:57
+msgid "Your API Key was saved successfully."
+msgstr "Sua chave da API foi salva."
+
+#: includes/admin.php:70
+msgid "MainStem WooCommerce Plugin Settings"
+msgstr "Configurações do plugin MainStem WooCommerce"
+
+#: includes/admin.php:71
+msgid ""
+"Paste your MainStem API key below. If you do not have a key, please contact "
+"it@gomainstem.com or call us at 844-623-4084"
+msgstr ""
+"Cole sua chave da API da MainStem abaixo. Se você não tem uma chave, entre "
+"em contato com it@gomainstem.com ou ligue para 844-623-4084"
+
+#: includes/admin.php:72
+msgid "Enter your API key here..."
+msgstr "Digite sua chave da API aqui..."
+
+#: includes/admin.php:74
+msgid "Save Changes"
+msgstr "Salvar mudanças"
+
+#: includes/admin.php:89
+msgid "Settings"
+msgstr "Configurações"
+
+#: includes/rest-api.php:39
+msgid "Order ID."
+msgstr "ID do pedido"
+
+#: includes/rest-api.php:73
+msgid "Unauthorized"
+msgstr "Não autorizado"
